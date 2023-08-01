@@ -35,3 +35,5 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 # Food_Delivery_App_For_IITP_STUDENTS
 
+Created By Munesh Meena. I was working of this project for last 2 months. But finally today (Aug. 1 2023) successfully completed of this project. Special Thanks for my some friends Mankesh Meena ,Praveen kumar to clear my doubt during the project.
+
